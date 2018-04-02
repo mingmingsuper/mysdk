@@ -1,1 +1,1 @@
-# mysdk
+# 这个Demo是测试使用github配合maven搭建私有仓库
