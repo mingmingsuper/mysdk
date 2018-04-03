@@ -8,6 +8,36 @@
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
+      <groupId>com.netease.nimlib</groupId>
+      <artifactId>basesdk</artifactId>
+      <version>4.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.netease.nimlib</groupId>
+      <artifactId>avchat</artifactId>
+      <version>4.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.netease.nimlib</groupId>
+      <artifactId>chatroom</artifactId>
+      <version>4.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.netease.nimlib</groupId>
+      <artifactId>rts</artifactId>
+      <version>4.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.netease.nimlib</groupId>
+      <artifactId>nrtc</artifactId>
+      <version>4.9.0</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
       <groupId>com.android.support</groupId>
       <artifactId>appcompat-v7</artifactId>
       <version>27.1.0</version>
